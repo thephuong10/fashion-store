@@ -1,0 +1,247 @@
+[
+  {
+    "name": "Thời trang nam",
+    "parentId": 0,
+    "level": 0,
+    "children": [
+      {
+        "name": "Áo",
+        "level": 1,
+        "children": [
+          {
+            "name": "Áo thun nam",
+            "level": 2
+          },
+          {
+            "name": "Áo vest - Áo khoác nam",
+            "level": 2
+          },
+          {
+            "name": "Áo hoodie nam",
+            "level": 2
+          }
+        ]
+      },
+      {
+        "name": "Quần",
+        "level": 1,
+        "children": [
+          {
+            "name": "Quần jaen nam",
+            "level": 2
+          },
+          {
+            "name": "Quần dài nam",
+            "level": 2
+          },
+          {
+            "name": "Quần short nam",
+            "level": 2
+          }
+        ]
+      },
+      {
+        "name": "Giày dép nam",
+        "level": 1,
+        "children": [
+          {
+            "name": "Giày sneaker",
+            "level": 2
+          },
+          {
+            "name": "Dép & sandal",
+            "level": 2
+          },
+          {
+            "name": "Giày lười",
+            "level": 2
+          },
+          {
+            "name": "Giày công sở",
+            "level": 2
+          },
+          {
+            "name": "Giày bốt",
+            "level": 2
+          }
+        ]
+      },
+      {
+        "name": "Túi xách nam",
+        "level": 1,
+        "children": [
+          {
+            "name": "Balo nam",
+            "level": 2
+          },
+          {
+            "name": "Cặp xách công sở",
+            "level": 2
+          },
+          {
+            "name": "Túi đeo nam",
+            "level": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Thời trang nữ",
+    "parentId": 0,
+    "level": 0,
+    "children": [
+      {
+        "name": "Áo",
+        "level": 1,
+        "children": [
+          {
+            "name": "Áo khoác",
+            "level": 2
+          },
+          {
+            "name": "Áo thun",
+            "level": 2
+          },
+          {
+            "name": "Áo hai dây",
+            "level": 2
+          },
+          {
+            "name": "Áo sơ mi",
+            "level": 2
+          }
+        ]
+      },
+      {
+        "name": "Quần & váy",
+        "level": 1,
+        "children": [
+          {
+            "name": "Quần dài & quần bó",
+            "level": 2
+          },
+          {
+            "name": "Quần short nữ",
+            "level": 2
+          },
+          {
+            "name": "Váy & Chân váy",
+            "level": 2
+          },
+          {
+            "name": "Đầm",
+            "level": 2
+          }
+        ]
+      },
+      {
+        "name": "Túi xách nữ",
+        "level": 1,
+        "children": [
+          {
+            "name": "Túi đeo chéo",
+            "level": 2
+          },
+          {
+            "name": "Túi tote",
+            "level": 2
+          },
+          {
+            "name": "Túi đeo tay",
+            "level": 2
+          },
+          {
+            "name": "ví dự tiệc",
+            "level": 2
+          }
+        ]
+      },
+      {
+        "name": "Phụ kiện nữ",
+        "level": 1,
+        "children": [
+          {
+            "name": "Phụ kiện tóc nữ",
+            "level": 2
+          },
+          {
+            "name": "Nón thời trang nữ",
+            "level": 2
+          },
+          {
+            "name": "Găng tay & khẩu trăng nữ",
+            "level": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Thể thao",
+    "parentId": 0,
+    "level": 0,
+    "children": [
+      {
+        "name": "Áo",
+        "level": 1,
+        "children": [
+          {
+            "name": "Đồ bóng đá",
+            "level": 2,
+            "children": [
+              {
+                "name": "Đồ bóng đá theo cấp CLB",
+                "level": 3
+              },
+              {
+                "name": "Đồ bóng đá theo cấp ĐTQG",
+                "level": 3
+              }
+            ]
+          },
+          {
+            "name": "Áo thun thể thao",
+            "level": 2
+          }
+        ]
+      },
+      {
+        "name": "Quần sort thể thao",
+        "level": 1
+      },
+      {
+        "name": "Túi thể thao",
+        "level": 1
+      },
+      {
+        "name": "Giày thể thao",
+        "level": 1,
+        "children": [
+          {
+            "name": "Giày chạy bộ",
+            "level": 2
+          },
+          {
+            "name": "Giày chơi cầu lông",
+            "level": 2
+          },
+          {
+            "name": "Giày đá bóng",
+            "level": 2,
+            "children": [
+              {
+                "name": "Giày đá bóng sân cỏ nhân tạo",
+                "level": 3
+              },
+              {
+                "name": "Giày đá bóng sân cỏ",
+                "level": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
