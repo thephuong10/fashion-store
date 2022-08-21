@@ -2,8 +2,6 @@ import React from "react";
 import { Box } from "@mui/material";
 import variables from "../styles/variables";
 
-const calcMaxWidth = (num, p = 0) => `${num - p}px`;
-
 const Container = ({ children, sx = {}, ...rest }) => {
   return (
     <Box
@@ -19,18 +17,15 @@ const Container = ({ children, sx = {}, ...rest }) => {
         },
         [variables.theme.breakpoints.down("lg")]: {
           maxWidth: "960px",
-          pl: "8px",
-          pr: "8px",
+          px: variables.spacing.xs,
         },
         [variables.theme.breakpoints.down("md")]: {
           maxWidth: "740px",
-          pl: "10px",
-          pr: "10px",
+          px: "10px",
         },
         [variables.theme.breakpoints.down("sm")]: {
           maxWidth: "540px",
-          pl: "10px",
-          pr: "10px",
+          px: "10px",
         },
         ...sx,
       }}
