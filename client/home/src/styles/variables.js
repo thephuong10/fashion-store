@@ -11,22 +11,22 @@ const variables = {
       light: "#F9B5C3",
     },
     error: {
-      dark: "#F5222D",
+      primary: "#F5222D",
       blur: "#FFCCC7",
       dark: "#d01620",
     },
     warning: {
-      dark: "#FA541C",
+      primary: "#FA541C",
       blur: "#FFF7E6",
       dark: "#e24713",
     },
     success: {
-      dark: "#52C41A",
+      primary: "#52C41A",
       blur: "#D9F7BE",
       dark: "#3fa00f",
     },
     info: {
-      dark: "#096DD9",
+      primary: "#096DD9",
       blur: "#F0F5FF",
       dark: "#0861c2",
     },
