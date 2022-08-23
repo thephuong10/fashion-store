@@ -1,242 +1,564 @@
 [
   {
+    "id": "62f7ce3ff5830f4ae85543b8",
     "name": "Thời trang nam",
-    "parentId": 0,
-    "level": 0,
+    "slug": "thoi-trang-nam",
+    "parentsId": [],
     "children": [
       {
+        "id": "62f7ce3ff5830f4ae85543b9",
         "name": "Áo",
-        "level": 1,
+        "slug": "ao",
+        "parentsId": [
+          "62f7ce3ff5830f4ae85543b8"
+        ],
         "children": [
           {
+            "id": "62f7ce3ff5830f4ae85543ba",
             "name": "Áo thun nam",
-            "level": 2
+            "slug": "ao-thun-nam",
+            "parentsId": [
+              "62f7ce3ff5830f4ae85543b8",
+              "62f7ce3ff5830f4ae85543b9"
+            ],
+            "children": []
           },
           {
+            "id": "62f7ce3ff5830f4ae85543bb",
             "name": "Áo vest - Áo khoác nam",
-            "level": 2
+            "slug": "ao-vest---ao-khoac-nam",
+            "parentsId": [
+              "62f7ce3ff5830f4ae85543b8",
+              "62f7ce3ff5830f4ae85543b9"
+            ],
+            "children": []
           },
           {
+            "id": "62f7ce40f5830f4ae85543bc",
             "name": "Áo hoodie nam",
-            "level": 2
+            "slug": "ao-hoodie-nam",
+            "parentsId": [
+              "62f7ce3ff5830f4ae85543b8",
+              "62f7ce3ff5830f4ae85543b9"
+            ],
+            "children": []
           }
         ]
       },
       {
+        "id": "62f7ce40f5830f4ae85543bd",
         "name": "Quần",
-        "level": 1,
+        "slug": "quan",
+        "parentsId": [
+          "62f7ce3ff5830f4ae85543b8"
+        ],
         "children": [
           {
+            "id": "62f7ce40f5830f4ae85543be",
             "name": "Quần jaen nam",
-            "level": 2
+            "slug": "quan-jaen-nam",
+            "parentsId": [
+              "62f7ce3ff5830f4ae85543b8",
+              "62f7ce40f5830f4ae85543bd"
+            ],
+            "children": []
           },
           {
+            "id": "62f7ce40f5830f4ae85543bf",
             "name": "Quần dài nam",
-            "level": 2
+            "slug": "quan-dai-nam",
+            "parentsId": [
+              "62f7ce3ff5830f4ae85543b8",
+              "62f7ce40f5830f4ae85543bd"
+            ],
+            "children": []
           },
           {
+            "id": "62f7ce40f5830f4ae85543c0",
             "name": "Quần short nam",
-            "level": 2
+            "slug": "quan-short-nam",
+            "parentsId": [
+              "62f7ce3ff5830f4ae85543b8",
+              "62f7ce40f5830f4ae85543bd"
+            ],
+            "children": []
           }
         ]
       },
       {
+        "id": "62f7ce40f5830f4ae85543c1",
         "name": "Giày dép nam",
-        "level": 1,
+        "slug": "giay-dep-nam",
+        "parentsId": [
+          "62f7ce3ff5830f4ae85543b8"
+        ],
         "children": [
           {
+            "id": "62f7ce40f5830f4ae85543c2",
             "name": "Giày sneaker",
-            "level": 2
+            "slug": "giay-sneaker",
+            "parentsId": [
+              "62f7ce3ff5830f4ae85543b8",
+              "62f7ce40f5830f4ae85543c1"
+            ],
+            "children": []
           },
           {
+            "id": "62f7ce40f5830f4ae85543c3",
             "name": "Dép & sandal",
-            "level": 2
+            "slug": "dep-&-sandal",
+            "parentsId": [
+              "62f7ce3ff5830f4ae85543b8",
+              "62f7ce40f5830f4ae85543c1"
+            ],
+            "children": []
           },
           {
+            "id": "62f7ce40f5830f4ae85543c4",
             "name": "Giày lười",
-            "level": 2
+            "slug": "giay-luoi",
+            "parentsId": [
+              "62f7ce3ff5830f4ae85543b8",
+              "62f7ce40f5830f4ae85543c1"
+            ],
+            "children": []
           },
           {
+            "id": "62f7ce40f5830f4ae85543c5",
             "name": "Giày công sở",
-            "level": 2
+            "slug": "giay-cong-so",
+            "parentsId": [
+              "62f7ce3ff5830f4ae85543b8",
+              "62f7ce40f5830f4ae85543c1"
+            ],
+            "children": []
           },
           {
+            "id": "62f7ce40f5830f4ae85543c6",
             "name": "Giày bốt",
-            "level": 2
+            "slug": "giay-bot",
+            "parentsId": [
+              "62f7ce3ff5830f4ae85543b8",
+              "62f7ce40f5830f4ae85543c1"
+            ],
+            "children": []
           }
         ]
       },
       {
+        "id": "62f7ce40f5830f4ae85543c7",
         "name": "Túi xách nam",
-        "level": 1,
+        "slug": "tui-xach-nam",
+        "parentsId": [
+          "62f7ce3ff5830f4ae85543b8"
+        ],
         "children": [
           {
+            "id": "62f7ce40f5830f4ae85543c8",
             "name": "Balo nam",
-            "level": 2
+            "slug": "balo-nam",
+            "parentsId": [
+              "62f7ce3ff5830f4ae85543b8",
+              "62f7ce40f5830f4ae85543c7"
+            ],
+            "children": []
           },
           {
+            "id": "62f7ce40f5830f4ae85543c9",
             "name": "Cặp xách công sở",
-            "level": 2
+            "slug": "cap-xach-cong-so",
+            "parentsId": [
+              "62f7ce3ff5830f4ae85543b8",
+              "62f7ce40f5830f4ae85543c7"
+            ],
+            "children": []
           },
           {
+            "id": "62f7ce40f5830f4ae85543ca",
             "name": "Túi đeo nam",
-            "level": 2
+            "slug": "tui-deo-nam",
+            "parentsId": [
+              "62f7ce3ff5830f4ae85543b8",
+              "62f7ce40f5830f4ae85543c7"
+            ],
+            "children": []
           }
         ]
       }
     ]
   },
   {
+    "id": "62f7ce40f5830f4ae85543cb",
     "name": "Thời trang nữ",
-    "parentId": 0,
-    "level": 0,
+    "slug": "thoi-trang-nu",
+    "parentsId": [],
     "children": [
       {
+        "id": "62f7ce40f5830f4ae85543cc",
         "name": "Áo",
-        "level": 1,
+        "slug": "ao",
+        "parentsId": [
+          "62f7ce40f5830f4ae85543cb"
+        ],
         "children": [
           {
+            "id": "62f7ce40f5830f4ae85543cd",
             "name": "Áo khoác",
-            "level": 2
+            "slug": "ao-khoac",
+            "parentsId": [
+              "62f7ce40f5830f4ae85543cb",
+              "62f7ce40f5830f4ae85543cc"
+            ],
+            "children": []
           },
           {
+            "id": "62f7ce40f5830f4ae85543ce",
             "name": "Áo thun",
-            "level": 2
+            "slug": "ao-thun",
+            "parentsId": [
+              "62f7ce40f5830f4ae85543cb",
+              "62f7ce40f5830f4ae85543cc"
+            ],
+            "children": []
           },
           {
+            "id": "62f7ce40f5830f4ae85543cf",
             "name": "Áo hai dây",
-            "level": 2
+            "slug": "ao-hai-day",
+            "parentsId": [
+              "62f7ce40f5830f4ae85543cb",
+              "62f7ce40f5830f4ae85543cc"
+            ],
+            "children": []
           },
           {
+            "id": "62f7ce40f5830f4ae85543d0",
             "name": "Áo sơ mi",
-            "level": 2
+            "slug": "ao-so-mi",
+            "parentsId": [
+              "62f7ce40f5830f4ae85543cb",
+              "62f7ce40f5830f4ae85543cc"
+            ],
+            "children": []
           }
         ]
       },
       {
+        "id": "62f7ce40f5830f4ae85543d1",
         "name": "Quần & váy",
-        "level": 1,
+        "slug": "quan-&-vay",
+        "parentsId": [
+          "62f7ce40f5830f4ae85543cb"
+        ],
         "children": [
           {
+            "id": "62f7ce40f5830f4ae85543d2",
             "name": "Quần dài & quần bó",
-            "level": 2
+            "slug": "quan-dai-&-quan-bo",
+            "parentsId": [
+              "62f7ce40f5830f4ae85543cb",
+              "62f7ce40f5830f4ae85543d1"
+            ],
+            "children": []
           },
           {
+            "id": "62f7ce41f5830f4ae85543d3",
             "name": "Quần short nữ",
-            "level": 2
+            "slug": "quan-short-nu",
+            "parentsId": [
+              "62f7ce40f5830f4ae85543cb",
+              "62f7ce40f5830f4ae85543d1"
+            ],
+            "children": []
           },
           {
+            "id": "62f7ce41f5830f4ae85543d4",
             "name": "Váy & Chân váy",
-            "level": 2
+            "slug": "vay-&-chan-vay",
+            "parentsId": [
+              "62f7ce40f5830f4ae85543cb",
+              "62f7ce40f5830f4ae85543d1"
+            ],
+            "children": []
           },
           {
+            "id": "62f7ce41f5830f4ae85543d5",
             "name": "Đầm",
-            "level": 2
+            "slug": "dam",
+            "parentsId": [
+              "62f7ce40f5830f4ae85543cb",
+              "62f7ce40f5830f4ae85543d1"
+            ],
+            "children": []
           }
         ]
       },
       {
+        "id": "62f7ce41f5830f4ae85543d6",
         "name": "Túi xách nữ",
-        "level": 1,
+        "slug": "tui-xach-nu",
+        "parentsId": [
+          "62f7ce40f5830f4ae85543cb"
+        ],
         "children": [
           {
+            "id": "62f7ce41f5830f4ae85543d7",
             "name": "Túi đeo chéo",
-            "level": 2
+            "slug": "tui-deo-cheo",
+            "parentsId": [
+              "62f7ce40f5830f4ae85543cb",
+              "62f7ce41f5830f4ae85543d6"
+            ],
+            "children": []
           },
           {
+            "id": "62f7ce41f5830f4ae85543d8",
             "name": "Túi tote",
-            "level": 2
+            "slug": "tui-tote",
+            "parentsId": [
+              "62f7ce40f5830f4ae85543cb",
+              "62f7ce41f5830f4ae85543d6"
+            ],
+            "children": []
           },
           {
+            "id": "62f7ce41f5830f4ae85543d9",
             "name": "Túi đeo tay",
-            "level": 2
+            "slug": "tui-deo-tay",
+            "parentsId": [
+              "62f7ce40f5830f4ae85543cb",
+              "62f7ce41f5830f4ae85543d6"
+            ],
+            "children": []
           },
           {
+            "id": "62f7ce41f5830f4ae85543da",
             "name": "ví dự tiệc",
-            "level": 2
+            "slug": "vi-du-tiec",
+            "parentsId": [
+              "62f7ce40f5830f4ae85543cb",
+              "62f7ce41f5830f4ae85543d6"
+            ],
+            "children": []
           }
         ]
       },
       {
+        "id": "62f7ce41f5830f4ae85543db",
         "name": "Phụ kiện nữ",
-        "level": 1,
+        "slug": "phu-kien-nu",
+        "parentsId": [
+          "62f7ce40f5830f4ae85543cb"
+        ],
         "children": [
           {
+            "id": "62f7ce41f5830f4ae85543dc",
             "name": "Phụ kiện tóc nữ",
-            "level": 2
+            "slug": "phu-kien-toc-nu",
+            "parentsId": [
+              "62f7ce40f5830f4ae85543cb",
+              "62f7ce41f5830f4ae85543db"
+            ],
+            "children": []
           },
           {
+            "id": "62f7ce41f5830f4ae85543dd",
             "name": "Nón thời trang nữ",
-            "level": 2
+            "slug": "non-thoi-trang-nu",
+            "parentsId": [
+              "62f7ce40f5830f4ae85543cb",
+              "62f7ce41f5830f4ae85543db"
+            ],
+            "children": []
           },
           {
+            "id": "62f7ce41f5830f4ae85543de",
             "name": "Găng tay & khẩu trăng nữ",
-            "level": 2
+            "slug": "gang-tay-&-khau-trang-nu",
+            "parentsId": [
+              "62f7ce40f5830f4ae85543cb",
+              "62f7ce41f5830f4ae85543db"
+            ],
+            "children": []
           }
         ]
       }
     ]
   },
   {
+    "id": "62f7ce41f5830f4ae85543df",
     "name": "Thể thao",
-    "parentId": 0,
-    "level": 0,
+    "slug": "the-thao",
+    "parentsId": [],
     "children": [
       {
+        "id": "62f7ce41f5830f4ae85543e0",
         "name": "Áo",
-        "level": 1,
+        "slug": "ao",
+        "parentsId": [
+          "62f7ce41f5830f4ae85543df"
+        ],
         "children": [
           {
+            "id": "62f7ce41f5830f4ae85543e1",
             "name": "Đồ bóng đá",
-            "level": 2,
+            "slug": "do-bong-da",
+            "parentsId": [
+              "62f7ce41f5830f4ae85543df",
+              "62f7ce41f5830f4ae85543e0"
+            ],
             "children": [
               {
+                "id": "62f7ce41f5830f4ae85543e2",
                 "name": "Đồ bóng đá theo cấp CLB",
-                "level": 3
+                "slug": "do-bong-da-theo-cap-clb",
+                "parentsId": [
+                  "62f7ce41f5830f4ae85543df",
+                  "62f7ce41f5830f4ae85543e0",
+                  "62f7ce41f5830f4ae85543e1"
+                ],
+                "children": []
               },
               {
+                "id": "62f7ce41f5830f4ae85543e3",
                 "name": "Đồ bóng đá theo cấp ĐTQG",
-                "level": 3
+                "slug": "do-bong-da-theo-cap-dtqg",
+                "parentsId": [
+                  "62f7ce41f5830f4ae85543df",
+                  "62f7ce41f5830f4ae85543e0",
+                  "62f7ce41f5830f4ae85543e1"
+                ],
+                "children": []
               }
             ]
           },
           {
+            "id": "62f7ce41f5830f4ae85543e4",
             "name": "Áo thun thể thao",
-            "level": 2
+            "slug": "ao-thun-the-thao",
+            "parentsId": [
+              "62f7ce41f5830f4ae85543df",
+              "62f7ce41f5830f4ae85543e0"
+            ],
+            "children": []
           }
         ]
       },
       {
+        "id": "62f7ce41f5830f4ae85543e5",
         "name": "Quần sort thể thao",
-        "level": 1
+        "slug": "quan-sort-the-thao",
+        "parentsId": [
+          "62f7ce41f5830f4ae85543df"
+        ],
+        "children": []
       },
       {
+        "id": "62f7ce41f5830f4ae85543e6",
         "name": "Túi thể thao",
-        "level": 1
+        "slug": "tui-the-thao",
+        "parentsId": [
+          "62f7ce41f5830f4ae85543df"
+        ],
+        "children": []
       },
       {
+        "id": "62f7ce41f5830f4ae85543e7",
         "name": "Giày thể thao",
-        "level": 1,
+        "slug": "giay-the-thao",
+        "parentsId": [
+          "62f7ce41f5830f4ae85543df"
+        ],
         "children": [
           {
+            "id": "62f7ce41f5830f4ae85543e8",
             "name": "Giày chạy bộ",
-            "level": 2
+            "slug": "giay-chay-bo",
+            "parentsId": [
+              "62f7ce41f5830f4ae85543df",
+              "62f7ce41f5830f4ae85543e7"
+            ],
+            "children": []
           },
           {
+            "id": "62f7ce41f5830f4ae85543e9",
             "name": "Giày chơi cầu lông",
-            "level": 2
+            "slug": "giay-choi-cau-long",
+            "parentsId": [
+              "62f7ce41f5830f4ae85543df",
+              "62f7ce41f5830f4ae85543e7"
+            ],
+            "children": []
           },
           {
+            "id": "62f7ce41f5830f4ae85543ea",
             "name": "Giày đá bóng",
-            "level": 2,
+            "slug": "giay-da-bong",
+            "parentsId": [
+              "62f7ce41f5830f4ae85543df",
+              "62f7ce41f5830f4ae85543e7"
+            ],
             "children": [
               {
+                "id": "62f7ce41f5830f4ae85543eb",
                 "name": "Giày đá bóng sân cỏ nhân tạo",
-                "level": 3
+                "slug": "giay-da-bong-san-co-nhan-tao",
+                "parentsId": [
+                  "62f7ce41f5830f4ae85543df",
+                  "62f7ce41f5830f4ae85543e7",
+                  "62f7ce41f5830f4ae85543ea"
+                ],
+                "children": []
               },
               {
+                "id": "62f7ce42f5830f4ae85543ec",
                 "name": "Giày đá bóng sân cỏ",
-                "level": 3
+                "slug": "giay-da-bong-san-co",
+                "parentsId": [
+                  "62f7ce41f5830f4ae85543df",
+                  "62f7ce41f5830f4ae85543e7",
+                  "62f7ce41f5830f4ae85543ea"
+                ],
+                "children": [
+                  {
+                    "id": "62f7ce42f5830f4ae85543ecad",
+                    "name": "Giày đá bóng sân cỏ 1",
+                    "slug": "giay-da-bong-san-co-1",
+                    "parentsId": [
+                      "62f7ce41f5830f4ae85543df",
+                      "62f7ce41f5830f4ae85543e7",
+                      "62f7ce41f5830f4ae85543ea",
+                      "62f7ce42f5830f4ae85543ec"
+                    ],
+                    "children": []
+                  },
+                  {
+                    "id": "62f7ce42f5830f4ae85543eca3d",
+                    "name": "Giày đá bóng sân cỏ 2",
+                    "slug": "giay-da-bong-san-co-2",
+                    "parentsId": [
+                      "62f7ce41f5830f4ae85543df",
+                      "62f7ce41f5830f4ae85543e7",
+                      "62f7ce41f5830f4ae85543ea",
+                      "62f7ce42f5830f4ae85543ec"
+                    ],
+                    "children": [
+                      {
+                        "id": "62f7ce42f5830f4ae85543ecad",
+                        "name": "Giày đá bóng sân cỏ 2.1",
+                        "slug": "giay-da-bong-san-co-2",
+                        "parentsId": [
+                          "62f7ce41f5830f4ae85543df",
+                          "62f7ce41f5830f4ae85543e7",
+                          "62f7ce41f5830f4ae85543ea",
+                          "62f7ce42f5830f4ae85543ec",
+                          "62f7ce42f5830f4ae85543eca3d"
+                        ],
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
               }
             ]
           }
